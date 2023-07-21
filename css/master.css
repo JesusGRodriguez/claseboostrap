@@ -1,0 +1,14 @@
+.titulo{
+    background-color: tomato;
+    color: white;
+    font-size: 4rem;
+    border: solid 5px red;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px red;
+}
+.boton{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+}
